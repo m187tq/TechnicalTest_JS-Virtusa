@@ -2,8 +2,6 @@
 
 This is where I am tested technically.
 The main Frameworks included in the project:
-
-    Selenium Webdriver
     WebderiverIO
     Javascript
     Cucumber BDD
