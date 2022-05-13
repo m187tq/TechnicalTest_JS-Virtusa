@@ -1,6 +1,5 @@
 # TechnicalTest_JS-Virtusa
 
-This is where I am tested technically.
 The main Frameworks included in the project:
     WebderiverIO
     Javascript
